@@ -1,4 +1,4 @@
-// import scond.js file object data in this indexedDB.js file using import
+// import second.js file object data in this indexedDB.js file using require
 
 const ajinathData = require('./second')
 
