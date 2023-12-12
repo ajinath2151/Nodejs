@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ajinath author",
-  "type": "module",
-  "license": "ISC",
+    "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
     "//": "this is custom comment, just add type: module, after author to run node es-6 module i.e import " ,
