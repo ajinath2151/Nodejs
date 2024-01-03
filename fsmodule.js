@@ -22,6 +22,6 @@ const fs = require('fs');
 // console.log("finish writing data to file2.txt");
 
 // write file synch
-a = fs.writeFileSync('file2.txt',"data of file2.txt synch")
+a = fs.writeFileSync('file2.txt',"data of file2.txt synch and latest")
     console.log(a);
 console.log("finish writing data to file2.txt");

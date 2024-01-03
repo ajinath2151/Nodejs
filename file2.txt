@@ -1,1 +1,1 @@
-data of file2.txt synch
+data of file2.txt synch and latest
